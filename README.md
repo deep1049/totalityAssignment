@@ -19,16 +19,20 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 
-Tech stack used in the Project:
-React JS
-Chakra UI
-JavaScript
-CSS
+## Technologies Used
+
+- **ReactJS:** The core library used for building the user interface components and managing the application state.
+- **HTML:** Used for structuring the web pages and rendering content.
+- **CSS:** Styling the components and ensuring a visually appealing design.
+- **Chakra UI:** A library of UI components for React that provide a consistent and customizable look and feel.
+
 localstorage for database
 
 
 
 ### Deployment link-->https://64ebb7e70ade10222935f585--helpful-kitsune-d1cb2d.netlify.app/
+
+
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
